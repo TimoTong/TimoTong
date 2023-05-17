@@ -2,7 +2,7 @@
 
 ## :two_hearts::two_hearts::two_hearts:**Welcome to my profile**:two_hearts::two_hearts::two_hearts:
 
-| <div style="width:290px">:prince:</div>| :prince: |:prince: |:prince: |:prince: |:prince: |:prince: |
+| <div style="width:1000px">:prince:</div>| :prince: |:prince: |:prince: |:prince: |:prince: |:prince: |
 | ------ | ------ |------ |------ |------ |------ |------ |
 |**My Skills**|:blossom:python:blossom:|:blossom:nodejs:blossom:|:blossom:c:blossom:|:blossom:solidity:blossom:|:blossom:go:blossom:|:blossom:rust:blossom:|
 |**Familiarity**|:star::star::star:|:star::star::star:|:star:|:star:|:star:|:star:|
