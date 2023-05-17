@@ -9,7 +9,7 @@
 |**Familiarity**|:star::star::star:|:star::star::star:|:star:|:star:|:star:|:star:|
 |**My Interests**|:tulip:HFT:tulip:|:tulip:MM:tulip:|:tulip:QR:tulip:|:tulip:Crypto:tulip:|:tulip:Machine Learning:tulip:|:tulip:ros:tulip:|
 ##
-:money_with_wings::money_with_wings::money_with_wings:Coding to living:money_with_wings::money_with_wings::money_with_wings:
+:money_with_wings::money_with_wings::money_with_wings:Coding to livingdd:money_with_wings::money_with_wings::money_with_wings:
 
 :revolving_hearts::revolving_hearts::revolving_hearts:**Wish you a happy day**:revolving_hearts::revolving_hearts::revolving_hearts:
 ##
