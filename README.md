@@ -6,7 +6,7 @@
 | :prince:| :prince: |:prince: |:prince: |:prince: |:prince: |
 | ------ | ------ |------ |------ |------ |------ |
 |My Skills|:blossom:python:blossom:|:blossom:nodejs:blossom:|:blossom:solidity:blossom:|:blossom:go:blossom:|:blossom:rust:blossom:|
-|My Interests|:tulip:HFT:tulip:|:tulip:Market Maing:tulip:|:tulip:Quantitative Research:tulip:|:tulip:Crypto:tulip:|:tulip:Machine Learning:tulip:|
+|My Interests|:tulip:HFT:tulip:|:tulip:MM:tulip:|:tulip:QR:tulip:|:tulip:Crypto:tulip:|:tulip:Machine Learning:tulip:|
 ##
 :money_with_wings::money_with_wings::money_with_wings:Coding to living:money_with_wings::money_with_wings::money_with_wings:
 
