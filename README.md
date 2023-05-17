@@ -6,8 +6,8 @@
 | :prince:| :prince: |:prince: |:prince: |:prince: |:prince: |:prince: |
 | ------ | ------ |------ |------ |------ |------ |------ |
 |**My Skills**|:blossom:python:blossom:|:blossom:nodejs:blossom:|:blossom:c:blossom:|:blossom:solidity:blossom:|:blossom:go:blossom:|:blossom:rust:blossom:|
-|**My Interests**|:tulip:HFT:tulip:|:tulip:MM:tulip:|:tulip:QR:tulip:|:tulip:Crypto:tulip:|:tulip:Machine Learning:tulip:|:tulip:ros:tulip:|
 |**Familiarity**|:star::star::star:|:star::star::star:|:star:|:star:|:star:|:star:|
+|**My Interests**|:tulip:HFT:tulip:|:tulip:MM:tulip:|:tulip:QR:tulip:|:tulip:Crypto:tulip:|:tulip:Machine Learning:tulip:|:tulip:ros:tulip:|
 ##
 :money_with_wings::money_with_wings::money_with_wings:Coding to living:money_with_wings::money_with_wings::money_with_wings:
 
